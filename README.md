@@ -5,7 +5,7 @@
 MONGODB_URI=mongodb+srv://suman:suman@cluster0.70jddls.mongodb.net/?retryWrites=true&w=majority
 
 # Hosted-Url
-https://upload-csv-cn.onrender.com
+https://upload-csv-cn-6scw.onrender.com
 
 
 # Upload-CSV
