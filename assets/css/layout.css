@@ -1,0 +1,15 @@
+body {
+    margin: 0;
+    padding: 0;
+    /* background-color: #243461; */
+     background-color: aliceblue;
+    color: black;
+    font-weight: bolder;
+}
+  
+  body #layout-main {
+    min-height: 100%;
+    height: auto;
+    margin: 0;
+  }
+  
