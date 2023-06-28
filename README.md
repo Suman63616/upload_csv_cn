@@ -1,8 +1,4 @@
 
-# Access the mongodb uri below for setting this application in local environment
-
-# .env
-MONGODB_URI=mongodb+srv://suman:suman@cluster0.70jddls.mongodb.net/?retryWrites=true&w=majority
 
 # Hosted-Url
 https://upload-csv-cn-6scw.onrender.com
